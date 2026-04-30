@@ -28,7 +28,7 @@ function Sidebar({ setActivePage }) {
       </div>
 
       <div className="text-xs text-gray-500">
-        Built by Arnav
+        Built by Shiva
       </div>
     </div>
   );
